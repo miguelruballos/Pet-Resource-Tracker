@@ -19,6 +19,6 @@ A python program that captures weight data and uploads the data with Google Shee
     *   `python pet_resource_tracker.py`
 *   Step 3: [Verify program functionality. ](how to verify program functionality)
 
-## Additional Resources
+### Additional Resources
 
 How to setup Google Sheets API.
