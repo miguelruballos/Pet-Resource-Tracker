@@ -161,17 +161,6 @@ try:
         lcd.text(message_scale_1, 1)
         lcd.text(message_scale_2, 2)
         
-#         if GPIO.event_detected(20):
-#             running = True
-#             print('test1')
-#             try:
-#                 upload_data()
-#             except NameError:
-#                 lcd.clear()
-#                 lcd.text('Please set', 1)
-#                 lcd.text('maximum', 2)
-#                 sleep(2)
-#                 lcd.clear()
         #if not GPIO.input(21):#this is another option to caputre the button input but it can be missed by the program.
         #GPIO.output(19, GPIO.HIGH)#turn on light
         if GPIO.event_detected(20):#this is a better solution because the program can detect a push even if it was working on something else.
