@@ -9,6 +9,9 @@ GPIO.setwarnings(False)
 
 lcd = LCD() #init screen
 
+lcd.text('Setting up ', 1)
+lcd.text('Device   ', 2)
+
 GPIO.setup(21, GPIO.IN, pull_up_down=GPIO.PUD_UP)#red button setup, currently the state is up.
 GPIO.setup(16, GPIO.IN, pull_up_down=GPIO.PUD_UP)#blue button
 GPIO.setup(20, GPIO.IN, pull_up_down=GPIO.PUD_UP)#yellow button
@@ -30,12 +33,15 @@ onehx= HX711(dout_pin=5, pd_sck_pin=6);
 twohx = HX711(dout_pin=23, pd_sck_pin=24);
 
 
-def zero_scales():    
+def zero_scales():
+    lcd.clear()
+    lcd.text('Set Zero:  ', 1)
+    lcd.text('Set Ratio: ', 2)
     err = onehx.zero()
     err = twohx.zero()
-    lcd.clear()
-    lcd.text('Zeroing ', 1)
-    lcd.text('Successfull', 2)
+    lcd.text('Set Zero: Sucess ', 1)
+    lcd.text('Set Ratio: ', 2)
+
     sleep(2)
     set_calculate_ratio()#calling the ratio so it can be calculated again.
     
@@ -46,20 +52,19 @@ def set_calculate_ratio():
 
     onehx.set_scale_ratio(scale_one_ratio)
     twohx.set_scale_ratio(scale_two_ratio)
-    lcd.clear()
-    lcd.text('Calculating ', 1)
-    lcd.text('Ratio Successfull', 2)
+    lcd.text('Set Zero: Sucess', 1)
+    lcd.text('Set Ratio:Sucess', 2)
     sleep(2)
 
 def button_blue_press():
     lcd.clear()
-    lcd.text('Blue Button', 1)
+    lcd.text('Button 1', 1)
     lcd.text('Pressed', 2)
     sleep(2)
     
 def button_red_press():
     lcd.clear()
-    lcd.text('Red Button', 1)
+    lcd.text('Button 3', 1)
     lcd.text('Pressed', 2)
     sleep(2)
     
@@ -70,7 +75,7 @@ def button_green_press():
     lcd.text('Green Light On', 1)
     sleep(2)
     lcd.clear()
-    lcd.text('Green Button', 1)
+    lcd.text('Button 4', 1)
     lcd.text('Pressed', 2)
     sleep(2)
     GPIO.output(26, GPIO.LOW)#turn off light
@@ -98,7 +103,7 @@ try:
         
         if GPIO.event_detected(20):#this is a better solution because the program can detect a push even if it was working on something else.
             lcd.clear()
-            lcd.text('Yellow Button', 1)
+            lcd.text('Button 2', 1)
             lcd.text('Pressed', 2)
             sleep(2)
             zero_scales()
@@ -112,10 +117,8 @@ try:
             
         if GPIO.event_detected(13):
             button_green_press()
-            
-        
+           
 except KeyboardInterrupt:
     print('interrupted!')
     lcd.clear()
     GPIO.output(26, GPIO.LOW)#turn off light
-
