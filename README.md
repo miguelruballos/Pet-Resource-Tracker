@@ -11,7 +11,7 @@ A python program that captures weight data and uploads the data with Google Shee
 
 ## Requirements
 
-*   Complete steps in 'How to build device'(Link this to document)
+*   Complete steps in [How to build device](How_to_Build_Device.md)
 
 ## Installation
 
@@ -19,7 +19,7 @@ A python program that captures weight data and uploads the data with Google Shee
     *   `gh repo clone miguelruballos/Pet-Resource-Tracker`
 *   Step 2: Run the program
     *   `python pet_resource_tracker.py`
-*   Step 3: 'Verify program functionality'. (Link this step to document)
+*   Step 3: Get Started (Link this step to document)
 
 ### Additional Resources
 
