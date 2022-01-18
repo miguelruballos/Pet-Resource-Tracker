@@ -14,15 +14,9 @@
 *   12x Female to Female Jumper Wires
 *   1x Resistor
 
-![Image](./pet_resource_tracker_device_diagram.png)
-Figure 1: Diagram of all device connections
-
-
-![Image](./raspberry_pi_GPIO.png)
-
 Figure 2: Diagram of all Raspberry PI GPIO
 
-Solarized dark             |  Solarized Ocean
+Pet Resource Tracker Device Diagram             |  Raspberry PI GPIO Diagram
 :-------------------------:|:-------------------------:
 ![](./pet_resource_tracker_device_diagram.png)  |  ![](./raspberry_pi_GPIO.png)
 
