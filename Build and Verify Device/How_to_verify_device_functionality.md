@@ -3,8 +3,8 @@
 Verify device functionality by running a program that perfroms a series of checks. Verify the the appropriate messages appear on the LCD screen. 
 
 ## Pre-Requisite
-* Complete _How to Build Device_ 
-* Download _verify_device_functionality_program.py_
+* Complete [How to Build Device](How_to_Build_Device.md) 
+* Download [Build Verification Program](verify_device_functionality_program.py)
 
 ## Steps
 
