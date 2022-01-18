@@ -22,7 +22,9 @@ Figure 1: Diagram of all device connections
 
 Figure 2: Diagram of all Raspberry PI GPIO
 
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](./pet_resource_tracker_device_diagram.png)  |  ![](./raspberry_pi_GPIO.png)
 
 
 
