@@ -14,7 +14,6 @@
 *   12x Female to Female Jumper Wires
 *   1x Resistor
 
-Figure 2: Diagram of all Raspberry PI GPIO
 
 Pet Resource Tracker Device Diagram             |  Raspberry PI GPIO Diagram
 :-------------------------:|:-------------------------:
