@@ -14,11 +14,11 @@
 *   12x Female to Female Jumper Wires
 *   1x Resistor
 
-![Image](./prt_labled.png "Connections")
+![Image](./pet_resource_tracker_device_diagram.png "Connections")
 Figure 1: Diagram of all device connections
 
 
-![Image](./gpio.png)
+![Image](./raspberry_pi_GPIO.png)
 
 Figure 2: Diagram of all Raspberry PI GPIO
 
