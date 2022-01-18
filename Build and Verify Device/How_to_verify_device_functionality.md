@@ -36,4 +36,4 @@ Verify device functionality by running a program that perfroms a series of check
 		*  Button 4 Pressed
 		
 ## Troubleshooting
-*  If you experience errors, please refer to [How to Build Device](How_to_Build_Device.md) to verify proper connections. 
+*  If you experience errors, please refer to [How to Build Device](How to Build Device.md) to verify proper connections. 
