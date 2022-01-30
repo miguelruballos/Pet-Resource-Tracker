@@ -1,6 +1,6 @@
 # Cat Resource Tracker
 
-A python program that captures weight data and uploads the data with Google Sheets API. The program runs on a Raspbery Pi that interfaces weight scales. 
+A python program that captures weight data and uploads the data with Google Sheets API. The program runs on a Raspbery Pi that interfaces with HX711 weight scales. 
 
 ## Requirements
 
