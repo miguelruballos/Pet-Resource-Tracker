@@ -11,7 +11,7 @@ A python program that captures weight data and uploads the data with Google Shee
 
 ## Requirements
 
-*   Complete steps in [How to build device](./How_to_Build_Device.md)
+*   Complete steps in [How to build device](Build and Verify Device/How_to_Build_Device.md)
 
 ## Installation
 
