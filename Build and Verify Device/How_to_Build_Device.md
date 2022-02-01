@@ -42,6 +42,7 @@ Pet Resource Tracker Device Diagram             |  Raspberry PI GPIO Diagram
 	* SDA - GPIO(3)
 	* SCL - GPIO(2)
 *   Step 5: Attach 4x Buttons to Breadboard.
+	*  **_Button Pins to Breadboard_**  
 	* Left Pins - Column E
 	* Right pins - Column F
 *   Step 6: Connect button's bottom left row to breadboard's negative rail with 4x Male to Male jumper cables. 
@@ -55,6 +56,7 @@ Pet Resource Tracker Device Diagram             |  Raspberry PI GPIO Diagram
 	* A13 - GPIO21
 	* A17 - GPIO13
 *   Step 8: Attach 1x LED to breadboard.
+	* **_LED to Breadboard_**  
 	* Short pin - E22
 	* Long pin - E23
 *   Step 9: Connect LEDs Short pin row to breadboard's negative rail with 1x Male to Male jumper cables.
