@@ -69,4 +69,4 @@ Pet Resource Tracker Device Diagram             |  Raspberry PI GPIO Diagram
 
 ## Next Steps...
 
-Complete steps in [How to verify device functionality](How_to_verify_device_functionality.md)
+Complete [How to verify device functionality](How_to_verify_device_functionality.md)
