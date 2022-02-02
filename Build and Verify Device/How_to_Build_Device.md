@@ -19,7 +19,7 @@ The Pet Resource Tracker device is made up of multiple components. This guide wi
 
 Pet Resource Tracker Device Diagram             |  Raspberry PI GPIO Diagram
 :-------------------------:|:-------------------------:
-![](./pet_resource_tracker_device_diagram.png)  |  ![](./raspberry_pi_GPIO.png)
+![](//Image%20Files/pet_resource_tracker_device_diagram.png)  |  ![](//Image%20Files/raspberry_pi_GPIO.png)
 
 
 ## Steps
