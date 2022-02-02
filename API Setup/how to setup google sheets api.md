@@ -2,7 +2,7 @@
 The Pet Resoruce Tracker uses Google Sheets API to upload weight data to a google sheets document. 
 
 ## Pre-Requisites
-* Complete _Pre-Requisites_ and _Step 1_ of [README](../README.md) document. 
+* Complete _Pre-Requisites_ and _Step 1_ from the [README](../README.md) document. 
 
 To setup Google API, complete Google's [Quick Start Tutorial ](https://developers.google.com/sheets/api/quickstart/python).
 
