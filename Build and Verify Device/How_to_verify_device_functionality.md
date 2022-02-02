@@ -38,4 +38,4 @@ Verify device functionality by running a program that perfroms a series of check
 ## Troubleshooting
 *  If you experience errors, please refer to [How to Build Device](How_to_Build_Device.md) to verify proper connections. 
 ## Next Steps..
-Complete steps in [README](../README.md) to setup _Pet Resource Tracker_.
+Complete steps in [README](../README.md).
