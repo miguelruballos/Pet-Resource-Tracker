@@ -18,19 +18,19 @@ Implement the _Spread Sheet Link ID_ and the  _JSON Key_ into the [Pet Resource 
 
 ## Spread Sheet Link ID
 
-The _Spread Sheet Link ID_ must be placed on line 139.
+Place the _Spread Sheet Link ID_ on line 139.
 
 ![](./Image%20Files/spreadsheet_link.png)
 
 ## JSON Key
 
-The path to the _JSON Key_ must be placed on line 133.  
+Place the path to the _JSON Key_ on line 133.  
 
 ![](./Image%20Files/json_key.png)
 
 ## Google Account
 
-The Google Account is used to access the spreadsheet where the weight data is stored. This will be covered in the next steps. 
+The Google Account is used to access the spreadsheet where the weight data is stored. The next steps will cover how to use the Google Account. 
 
 ## Next Steps..
 Proceed to _Step 3_ in [README](../README.md) document.
