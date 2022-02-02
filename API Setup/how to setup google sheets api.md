@@ -30,7 +30,7 @@ Place the path to the _JSON Key_ on line 133.
 
 ## Google Account
 
-The Google Account is used to access the spreadsheet where the weight data is stored. The next steps will cover how to use the Google Account. 
+The next steps will cover how to use the _Google Account_ to access the Dashboard. 
 
 ## Next Steps..
 Proceed to _Step 3_ in [README](../README.md) document.
