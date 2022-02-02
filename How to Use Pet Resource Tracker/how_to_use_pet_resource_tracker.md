@@ -1,14 +1,12 @@
 # How to use Pet Resource Tracker System
 
-## Pre-Requisites
-* Complete the _Pre-Requisites_ and _Steps 1-3_ in the [README](./README.md) document.
-
-## Overview
-
 Keep track of your pet's food and water from anywhere. This document teaches you the following:
 
 *   How to setup Tracking on your device
 *   How to Access the Dashboard.
+
+## Pre-Requisites
+* Complete the _Pre-Requisites_ and _Steps 1-3_ in the [README](./README.md) document.
 
 
 ### How to setup Tracking on your device
