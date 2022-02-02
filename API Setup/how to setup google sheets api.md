@@ -7,7 +7,7 @@ The Pet Resoruce Tracker uses Google Sheets API to upload weight data to a googl
 
 To get these items, complete Google's [Quick Start Tutorial ](https://developers.google.com/sheets/api/quickstart/python).
 
-After completing the tutorial, implement the items into the [Pet Resource Tracker python program](./pet_resource_tracker.py). 
+After completing the tutorial, implement the items into the [Pet Resource Tracker Program](../pet_resource_tracker.py). 
 
 ## Spread Sheet Link ID
 
