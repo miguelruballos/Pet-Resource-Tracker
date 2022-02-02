@@ -1,7 +1,7 @@
 # How to use Pet Resource Tracker System
 
 ## Pre-Requisites
-Complete the _Pre-Requisites_ and _Steps 1-3_ in the [README](./README.md) document.
+* Complete the _Pre-Requisites_ and _Steps 1-3_ in the [README](./README.md) document.
 
 ## Overview
 
