@@ -22,7 +22,7 @@ Pet Resource Tracker Device Diagram             |  Raspberry PI GPIO Diagram
 ![](./Image%20Files/pet_resource_tracker_device_diagram.png)  |  ![](./Image%20Files/raspberry_pi_GPIO.png)
 
 
-### How to Build Device
+## How to Build Device
 *   Step 1: Disconnect Raspberry PI from power.
 *   Step 2: Connect first HX711 weight scale to GPIO with 4x Female to Female jumper wires.
 
