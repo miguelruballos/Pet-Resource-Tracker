@@ -4,6 +4,8 @@ The Pet Resoruce Tracker uses Google Sheets API to upload weight data to a googl
 ## Pre-Requisites
 * Complete _Pre-Requisites_ and _Step 1_ from the [README](../README.md) document. 
 
+
+## Setup Google Sheets API
 To setup Google API, complete Google's [Quick Start Tutorial ](https://developers.google.com/sheets/api/quickstart/python).
 
 After completing the tutorial, you will receive the following items:
@@ -12,7 +14,7 @@ After completing the tutorial, you will receive the following items:
 * JSON Key
 * Google Account
 
-Implement the _Spread Sheet Link ID_ and the  _JSON Key_ path into the [Pet Resource Tracker Program](../pet_resource_tracker.py) source code that was downloaded in _Step 1_ from the [README](../README.md) document. 
+Implement the _Spread Sheet Link ID_ and the  _JSON Key_ path into the [Pet Resource Tracker Program](../pet_resource_tracker.py). The source code was downloaded in _Step 1_ from the [README](../README.md) document. 
 
 ## Spread Sheet Link ID
 
