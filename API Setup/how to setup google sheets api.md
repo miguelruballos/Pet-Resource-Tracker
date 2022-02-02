@@ -13,13 +13,13 @@ After completing the tutorial, implement the items into the [Pet Resource Tracke
 
 The _Spread Sheet Link ID_ must be placed on line 139.
 
-![](Build%20and%20Verify%20Device/Image%20Files/spreadsheet_link.png)
+![](./Image%20Files/spreadsheet_link.png)
 
 ## JSON Key
 
-The path to the _JSON Key_ must be placed on line 133.
+The path to the _JSON Key_ must be placed on line 133.  
 
-![](Build%20and%20Verify%20Device/Image%20Files/json_key.png)
+![](./Image%20Files/json_key.png)
 
 ## Google Account
 
