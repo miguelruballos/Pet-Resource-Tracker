@@ -1,5 +1,7 @@
 # How to Build Pet Resource Tracker Device
 
+The Pet Resource Tracker device is made up of multiple components. This guide will specify the components and their connections. 
+
 ## Pre-Requisites
 
 *   1x Raspberry Pi with GPIO
