@@ -6,7 +6,7 @@ Verify device functionality by running a program that perfroms a series of check
 * Complete [How to Build Device](How_to_Build_Device.md) 
 * Download [Build Verification Program](verify_device_functionality_program.py)
 
-## Steps
+## How to Verify Device
 
 * Step 1: Run the verification program on  Raspberry Pi
 	* `python verify_device_functionality_program.py`
