@@ -130,13 +130,13 @@ def upload_data(channel):
             
             SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
             #init json file located in same folder as program. Use for credentials.
-            SERVICE_ACCOUNT_FILE = 'keys.json'
+            SERVICE_ACCOUNT_FILE = 'Paste the path to your Jason Key File here'
             creds = None
             creds = service_account.Credentials.from_service_account_file(
                     SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 
             # The ID of sample spreadsheet.
-            SAMPLE_SPREADSHEET_ID = '1utan0_ss9NDG4OpndFdfr_vF4kjsgwJm2PpTewCRu7Q'
+            SAMPLE_SPREADSHEET_ID = 'Paste your spread sheet link ID here'
 
 
             service = build('sheets', 'v4', credentials=creds)
