@@ -20,7 +20,7 @@ Implement the _Spread Sheet Link ID_ and the  _JSON Key_ into the Pet Resource T
 
 Place the _Spread Sheet Link ID_ on line 139.
 
-![](./Image%20Files/spreadsheet_link.png)
+![](../Image%20Files/spreadsheet_link.png)
 
 ## JSON Key
 
