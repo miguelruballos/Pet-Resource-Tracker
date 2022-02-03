@@ -26,7 +26,7 @@ Place the _Spread Sheet Link ID_ on line 139.
 
 Place the path to the _JSON Key_ on line 133.  
 
-![](./Image%20Files/json_key.png)
+![](Image%20Files/json_key.png)
 
 ## Google Account
 
