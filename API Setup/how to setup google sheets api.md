@@ -14,7 +14,7 @@ After completing the tutorial, you will receive the following items:
 * JSON Key
 * Google Account
 
-Implement the _Spread Sheet Link ID_ and the  _JSON Key_ into the [Pet Resource Tracker Program](../pet_resource_tracker.py). The source code was downloaded in _Step 1_ from the [README](../README.md) document. 
+Implement the _Spread Sheet Link ID_ and the  _JSON Key_ into the Pet Resource Tracker Program. The program's source code file called [pet_resource_tracker.py](../pet_resource_tracker.py) is included in the package downloaded in _Step 1_ from the [README](../README.md) document. 
 
 ## Spread Sheet Link ID
 
