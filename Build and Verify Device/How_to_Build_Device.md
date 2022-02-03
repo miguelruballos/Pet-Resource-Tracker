@@ -64,10 +64,10 @@ Pet Resource Tracker Device Diagram             |  Raspberry PI GPIO Diagram
 	* **_LED to Breadboard_**  
 	* Short pin - E22
 	* Long pin - E23
-*   Step 9: Connect LEDs Short pin row to breadboard's negative rail with 1x Male to Male jumper cables.
+*   Step 9: Connect 1x Male to Male jumper cable from the LEDs Short pin row to breadboard's negative rail.
 	* A22 - Adjacent Negative Rail
 	* ![](./Image%20Files/top_row_led_to_negative_rail.png)
-*   Step 10: Connect LEDs Long pin row to lower column on breadboard with 1x Resistor.
+*   Step 10: Connect 1x Resisto from the LEDs Long pin row to lower column on breadboard.
 	* B23 - B31
 	* ![](./Image%20Files/resistor_to_lower_row.png)
 	
