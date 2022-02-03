@@ -47,7 +47,7 @@ Pet Resource Tracker Device Diagram             |  Raspberry PI GPIO Diagram
 	*  **_Button Pins to Breadboard_**  
 	* Left Pins - Column E
 	* Right pins - Column F
-	* ![](./Image%20Files/button_pins_to_breadboard.png)
+	* ![](./Image%20Files/button_pins_to_breadboard.PNG)
 *   Step 6: Connect 4x Male to Male jumper cables from the button's bottom left row to the breadboard's negative rail. 
 	* A7  - Adjacent Negative Rail
 	* A11 - Adjacent Negative Rail
