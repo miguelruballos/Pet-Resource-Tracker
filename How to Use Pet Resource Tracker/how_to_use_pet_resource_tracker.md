@@ -30,4 +30,4 @@ Keep track of your pet's food and water from anywhere. This document teaches you
 * Step 3: Open the _Dashboard Spreadsheet_.
 * Step 4: Open the _Dashboard_ tab.
 
-The Dashboard provides Graphs to track how much food and water your pet has.
+The Dashboard provides Graphs that help you track how much food and water your pet has.
