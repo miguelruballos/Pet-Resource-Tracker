@@ -27,7 +27,7 @@ Keep track of your pet's food and water from anywhere. This document teaches you
 
 * Step 1: Open 'Google Sheets' on a mobile device or computer.
 * Step 2: Sign in with the Google Account created in [How to setup Google Sheets API](/API%20Setup/how%20to%20setup%20google%20sheets%20api.md). 
-* Step 3: Open the "Dashboard" tab.
+* Step 3: Open the _Dashboard Spreadsheet_.
+* Step 4: Open the _Dashboard_ tab.
 
-
-The Dashboard provides an easy way to check how much food and water your pet has.
+The Dashboard provides Graphs to track how much food and water your pet has.
