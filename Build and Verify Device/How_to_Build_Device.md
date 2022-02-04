@@ -67,7 +67,7 @@ The Pet Resource Tracker device is made up of multiple components. This guide wi
 *   Step 9: Connect 1x Male to Male jumper cable from the LEDs Short pin row to breadboard's negative rail.
 	* A22 - Adjacent Negative Rail
 	* <img src="./Image%20Files/top_row_led_to_negative_rail.png" width="500"  />
-*   Step 10: Connect 1x Resisto from the LEDs Long pin row to lower column on breadboard.
+*   Step 10: Connect 1x Resistor from the LEDs Long pin row to lower column on breadboard.
 	* B23 - B31
 	* <img src="./Image%20Files/resistor_to_lower_row.png" width="500" />
 	
