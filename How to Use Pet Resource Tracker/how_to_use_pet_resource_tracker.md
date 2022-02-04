@@ -13,7 +13,7 @@ Keep track of your pet's food and water from anywhere. This document teaches you
 
 *   Step 1: Remove any items from the food and water bowls. 
 *   Step 2: Connect the Pet Resource Tracker Device to a power outlet.
-![](./Image_Files/setup_output.PNG)
+![](./Image_Files/setup_output.jpg)
 *   Step 3: When scale measurements apear, verify that measurements equal zero. 
 ![](./Image_Files/empty_scale_output.jpg)
     *   If measurements are greater or less than zero, press the "Set Zero" button. 
