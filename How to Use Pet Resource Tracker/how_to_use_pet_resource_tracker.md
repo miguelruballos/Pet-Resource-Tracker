@@ -43,7 +43,7 @@ _NOTE: If measurements are greater or less than zero, press the "Set Zero" butto
 * Step 3: Open the _Dashboard Spreadsheet_.
 * Step 4: Open the _Dashboard_ tab.
 
-The Dashboard provides Graphs that help you track how much food and water your pet has.
+The Dashboard provides Bar Charts that track how much food and water your pet currently has. Also, it provides line graphs that track how much your pet ate. 
 
 ![](./Image_Files/spread_sheet.png) 
 
