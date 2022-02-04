@@ -17,11 +17,11 @@ The Pet Resoruce Tracker uses Google Sheets API to upload weight data to a Googl
 
 ### Import the Dashboard Spreadsheet
 * Step 2: Log into Google Sheets with _Google Account_.
-* Step 3: Using the _Spread Sheet Link ID_, open the blank spreadsheet.
+* Step 3: Using the _Spread Sheet Link ID_, open the spreadsheet.
 * Step 4: Import the [Dashboard Spreadsheet Template](../API%20Setup/dashboard_spreadsheet.xlsx).
   * `File>Import` 
 ### Implement _Spread Sheet Link ID_ and the  _JSON Key_ into the Pet Resource Tracker Program
-The program's source code file called [pet_resource_tracker.py](../pet_resource_tracker.py) is included in the package downloaded in _Step 1_ from the [README](../README.md) document. 
+The package downloaded in _Step 1_ from the [README](../README.md) document includes the program's source code file called [pet_resource_tracker.py](../pet_resource_tracker.py).
 
 * Step 5: Place the _Spread Sheet Link ID_ on line 139.
   * ![](Image%20Files/spreadsheet_link.png)
