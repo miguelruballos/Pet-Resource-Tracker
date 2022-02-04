@@ -2,6 +2,11 @@
 
 The Pet Resource Tracker device is made up of multiple components. This guide will specify the components and their connections. 
 
+ 
+| Pet Resource Tracker Device Diagram Overview      | Raspberry PI GPIO |
+| ----------- | ----------- |
+| <img src="./Image%20Files/pet_resource_tracker_device_diagram.png" width="800" />      | <img src="./Image%20Files/raspberry_pi_GPIO.png" width="200" />       |
+
 ## Pre-Requisites
 
 *   1x Raspberry Pi with GPIO
@@ -15,11 +20,6 @@ The Pet Resource Tracker device is made up of multiple components. This guide wi
 *   5x Male to Female Jumper Wires
 *   12x Female to Female Jumper Wires
 *   1x Resistor
-
-
-Pet Resource Tracker Device Diagram             |  Raspberry PI GPIO Diagram
-:-------------------------:|:-------------------------:
-![](./Image%20Files/pet_resource_tracker_device_diagram.png)  |  ![](./Image%20Files/raspberry_pi_GPIO.png)
 
 
 ## How to Build Device
@@ -47,37 +47,37 @@ Pet Resource Tracker Device Diagram             |  Raspberry PI GPIO Diagram
 	*  **_Button Pins to Breadboard_**  
 	* Left Pins - Column E
 	* Right pins - Column F
-	* ![](./Image%20Files/button_pins_to_breadboard.PNG)
+	* <img src="./Image%20Files/button_pins_to_breadboard.png" width="500" />
 *   Step 6: Connect 4x Male to Male jumper cables from the button's bottom left row to the breadboard's negative rail. 
 	* A7  - Adjacent Negative Rail
 	* A11 - Adjacent Negative Rail
 	* A15 - Adjacent Negative Rail
 	* A19 - Adjacent Negative Rail
-	* ![](./Image%20Files/bottom_button_pins_to_negative_rail.png)
+	* <img src="./Image%20Files/bottom_button_pins_to_negative_rail.png" width="500"  />
 *   Step 7: Connect 4x Male to female jumper cables from the button's top left row to the GPIO.
 	* A5  - GPIO16
 	* A9  - GPIO20 
 	* A13 - GPIO21
 	* A17 - GPIO13
-	* ![](./Image%20Files/top_button_pins_to_gpio.png)
+	* <img src="./Image%20Files/top_button_pins_to_gpio.png" width="500" />
 *   Step 8: Attach 1x LED to breadboard.
 	* **_LED to Breadboard_**  
 	* Short pin - E22
 	* Long pin - E23
 *   Step 9: Connect 1x Male to Male jumper cable from the LEDs Short pin row to breadboard's negative rail.
 	* A22 - Adjacent Negative Rail
-	* ![](./Image%20Files/top_row_led_to_negative_rail.png)
+	* <img src="./Image%20Files/top_row_led_to_negative_rail.png" width="500"  />
 *   Step 10: Connect 1x Resisto from the LEDs Long pin row to lower column on breadboard.
 	* B23 - B31
-	* ![](./Image%20Files/resistor_to_lower_row.png)
+	* <img src="./Image%20Files/resistor_to_lower_row.png" width="500" />
 	
 * Step 11: Connect LEDs resistor row to GPIO.
 	* A31 - GPIO(26)
-	* ![](./Image%20Files/resistor_to_gpio%20-%20Copy.png)
+	* <img src="./Image%20Files/resistor_to_gpio%20-%20Copy.png" width="500"  />
 *   Step 8: Connect breadboard negative rail to GPIO.
 	* **_Breadboard to GPIO_**   
 	* Top Negative Rail Pinhole - Ground(34)
-	* ![](./Image%20Files//breadboard_negative_rail_to_gpio%20-%20Copy.png)
+	* <img src="./Image%20Files//breadboard_negative_rail_to_gpio%20-%20Copy.png" width="500"  />
 
 ### Next Steps...
 
