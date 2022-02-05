@@ -1,5 +1,5 @@
 # How to Setup Google Sheets API
-The Pet Resoruce Tracker uses Google Sheets API to upload weight data to a Google Sheets spreadsheet. This document will guide you with: 
+The Pet Resource Tracker uses Google Sheets API to upload weight data to a Google Sheets spreadsheet. This document will guide you with: 
 * Completing Google Sheets API Tutorial
 * Importing the Dashboard Spreadsheet
 * Implementing Google API information to the Pet Resource Tracker source code. 
