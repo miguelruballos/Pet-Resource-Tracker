@@ -15,7 +15,7 @@ Keep track of your pet's food and water from anywhere. This document teaches you
 *   Step 2: Connect the Pet Resource Tracker Device to a power outlet.
 <img src="./Image_Files/setup_output.jpg" width="520" height="100" />
 
-*   Step 3: When scale measurements apear, verify that measurements equal zero. 
+*   Step 3: When scale measurements appear, verify that measurements equal zero. 
 <img src="./Image_Files/empty_scale_output.jpg" width="520" height="100" />
 
 _NOTE: If measurements are greater or less than zero, press the "Set Zero" button._
